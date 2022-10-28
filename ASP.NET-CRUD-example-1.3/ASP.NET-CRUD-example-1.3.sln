@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.NET-CRUD-example-1.3", "ASP.NET-CRUD-example-1.3.csproj", "{7F85C8F5-9B53-4A59-BF13-A1FD77BB3267}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.NET-CRUD-example-1.3-DAL", "..\ASP.NET-CRUD-example-1.3-DAL\ASP.NET-CRUD-example-1.3-DAL.csproj", "{B8D4369F-D522-480A-8293-D47F71C5BB38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F85C8F5-9B53-4A59-BF13-A1FD77BB3267}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F85C8F5-9B53-4A59-BF13-A1FD77BB3267}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F85C8F5-9B53-4A59-BF13-A1FD77BB3267}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F85C8F5-9B53-4A59-BF13-A1FD77BB3267}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8D4369F-D522-480A-8293-D47F71C5BB38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8D4369F-D522-480A-8293-D47F71C5BB38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8D4369F-D522-480A-8293-D47F71C5BB38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8D4369F-D522-480A-8293-D47F71C5BB38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7486D7C4-35A5-40B6-8CA6-0B4A4081F757}
+	EndGlobalSection
+EndGlobal
